@@ -1,0 +1,4 @@
+gym==0.17.1
+gym_retro
+keras
+tensorflow-gpu
